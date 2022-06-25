@@ -8,7 +8,7 @@
 <p style="margin: 0; text-align:right;">Profesora: <b>Patricia Reyes Silva</b></p>
 </div>
 <div style="width:100%;">&nbsp;</div>
-<center><h1>TA1</h1></center>
+<center><h1>Trabajo Final</h1></center>
 
 # Contenido
 
