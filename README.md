@@ -30,11 +30,11 @@ Crear conocimiento a partir de las características encontradas en videos de ten
     
    Los Alumnos que han estado involucrados en el desarrollo de estre trabajo son:
     
-    * Salinas Roca, Antonio             [danielguillenrojas@gmail.com]
+    * Salinas Roca, Antonio             danielguillenrojas@gmail.com
     
-    * Guillén Rojas, Daniel Carlos      [u201921200@upc.edu.pe]
+    * Guillén Rojas, Daniel Carlos      u201921200@upc.edu.pe
     
-    * Wu Pan, Tito Peng                 [Salinas.antonio1820@gmail.com]
+    * Wu Pan, Tito Peng                 Salinas.antonio1820@gmail.com
     
 
 ## 3. Conjunto de Datos <a name="data3"></a>
@@ -76,5 +76,5 @@ Adjuntamos nuestro archivo PDF en donde explicamos los pasos utilizados para el 
     
 
   
-## Licencia <a name="data5"></a>
+## 5. Licencia <a name="data5"></a>
 Se ha acordado usar para este proyecto analítico la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
