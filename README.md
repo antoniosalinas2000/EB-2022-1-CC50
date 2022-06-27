@@ -69,7 +69,7 @@ El dataset que se utilizará fue elaborado por Mitchell J. extraído de la plata
 	
 Adjuntamos nuestro archivo PDF en donde explicamos los pasos utilizados para el análisis de datos, nuestras respuestas ante las preguntas hechas y nuestras conclusiones preliminares del proyecto:
 	
-    Archivo PDF: 
+    Archivo PDF: https://github.com/antoniosalinas2000/EB-2022-1-CC50/blob/main/TF_GRUPO02.pdf
     
 
 ## 4. Conclusiones <a name="data4"></a>
